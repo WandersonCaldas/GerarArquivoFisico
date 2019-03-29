@@ -1,0 +1,11 @@
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\bin\Debug\eArquivoFisico.exe.config
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\bin\Debug\eArquivoFisico.exe
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\bin\Debug\eArquivoFisico.pdb
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\bin\Debug\eArquivoFisico.xml
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\obj\Debug\eArquivoFisico.vbprojResolveAssemblyReference.cache
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\obj\Debug\eArquivoFisico.Form1.resources
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\obj\Debug\eArquivoFisico.Resources.resources
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\obj\Debug\eArquivoFisico.vbproj.GenerateResource.Cache
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\obj\Debug\eArquivoFisico.exe
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\obj\Debug\eArquivoFisico.xml
+C:\Users\IKHON\Desktop\GerarArquivoFisico\eArquivoFisico\obj\Debug\eArquivoFisico.pdb
